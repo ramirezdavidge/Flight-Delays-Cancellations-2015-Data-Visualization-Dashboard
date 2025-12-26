@@ -44,10 +44,6 @@ Este dataset contiene **millones de registros**, lo que permite:
 
 📌 *No incluye información personal de pasajeros y es ampliamente utilizado en proyectos de análisis exploratorio, visualización y modelado predictivo.*
 
-<p align="center">
-  <img src="images/dataset.png" width="800">
-</p>
-
 ---
 
 ## 📊 Métricas Clave (KPIs)
@@ -92,6 +88,7 @@ Estas métricas permiten segmentar los KPIs principales para identificar patrone
   - **Calendario (DimDate)**
   - **Aerolíneas**
   - **Aeropuertos**
+  - **Vuelos**
 - Correcto funcionamiento del **filtrado cruzado** en todo el modelo.
 
 ---
