@@ -14,7 +14,7 @@ Permite a los tomadores de decisiones identificar patrones de **cancelación**, 
 ## 📌 Dataset Empleado
 El análisis se basa en el dataset **Flight Delays**, publicado en **Kaggle** por el **Departamento de Transporte de los Estados Unidos (US Department of Transportation)**.  
 Contiene información detallada de los **vuelos domésticos realizados en EE. UU. durante 2015**.
-
+ ![image alt](https://github.com/ramirezdavidge/Flight-Delays-Cancellations-2015-Data-Visualization-Dashboard/blob/4e8165ea139e71161e52588680a95b7b53825d99/images/dataset.PNG)
 ### 📂 Archivos Principales
 El conjunto de datos está compuesto por tres archivos en formato CSV:
 
