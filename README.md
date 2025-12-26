@@ -119,7 +119,7 @@ Estas métricas permiten segmentar los KPIs principales para identificar patrone
 ### 🧩 Modelo de Datos
 - Filtros cruzados por **Aeropuerto** y **Aerolínea**.
 - Facilita análisis de **causa-raíz** y segmentación detallada.
-
+ ![image alt](https://github.com/ramirezdavidge/Flight-Delays-Cancellations-2015-Data-Visualization-Dashboard/blob/3cac23b4744a0563b9a0e55684cb73df9a4df0fa/images/modelodedatos.PNG)
 ### 🎨 Jerarquía Visual
 - Lectura **top-down**:
   - KPIs globales
