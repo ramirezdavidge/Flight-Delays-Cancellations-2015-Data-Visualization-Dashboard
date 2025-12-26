@@ -4,8 +4,7 @@
 Este proyecto consiste en el desarrollo de un **dashboard interactivo** enfocado en el monitoreo de la **eficiencia operativa de una red de vuelos en Norteamérica**.  
 Permite a los tomadores de decisiones identificar patrones de **cancelación**, **cumplimiento de itinerarios** y **distribución geográfica del tráfico aéreo**.
 
-<p align="center">
-  <img src="imágenes/tablero.png" width="800">
+ ![image alt](https://github.com/ramirezdavidge/Flight-Delays-Cancellations-2015-Data-Visualization-Dashboard/blob/37fd9ed4a41ee01cfd04fc8243759bd5338896db/images/dashboard.PNG)
 
  
 </p>
